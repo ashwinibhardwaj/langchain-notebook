@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LangChain Core
 langchain
 langchain-core
@@ -28,16 +27,11 @@ scikit-learn
 torch
 
 
-# Embedding Livearies
-sentence-transformer
-
-
-
-# UI
-=======
 # LangChain Core
 langchain
 langchain-core
+
+langchain-community
 
 # OpenAI Integration
 langchain-openai
@@ -64,11 +58,13 @@ scikit-learn
 torch
 
 
-# Embedding Livearies
-sentence-transformer
-
-
-
 # UI
->>>>>>> 7179b9d4 (added langchain_text_splitters)
 streamlit
+
+
+# web scraping
+bs4
+
+
+# pdf
+pypdf
