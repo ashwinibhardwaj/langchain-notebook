@@ -18,6 +18,9 @@ langchain-huggingface
 transformers
 huggingface-hub
 
+#GROQ Integration
+langchain-groq
+
 # Environment Variable Management
 python-dotenv
 
@@ -26,28 +29,6 @@ numpy
 scikit-learn
 torch
 
-
-# LangChain Core
-langchain
-langchain-core
-
-langchain-community
-
-# OpenAI Integration
-langchain-openai
-openai
-
-# Anthropic Integration
-langchain-anthropic
-
-# Google Gemini (PaLM) Integration
-langchain-google-genai
-google-generativeai
-
-# Hugging Face Integration
-langchain-huggingface
-transformers
-huggingface-hub
 
 # Environment Variable Management
 python-dotenv
@@ -68,3 +49,13 @@ bs4
 
 # pdf
 pypdf
+
+
+# vector stores
+chromadb
+tiktoken
+qdrant-client
+
+# retrievers
+wikipedia
+faiss-cpu
