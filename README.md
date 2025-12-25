@@ -36,11 +36,11 @@ This repository explores (and will continue to explore):
 * 🔹 Chains & LCEL (`|` operator)
 * 🔹 Runnable Interfaces
 
-  * `RunnableLambda`
-  * `RunnableBranch`
-  * `RunnableParallel`
-  * `RunnablePassthrough`
-  * `RunnableSequence`
+  * RunnableLambda
+  * RunnableBranch
+  * RunnableParallel
+  * RunnablePassthrough
+  * RunnableSequence
  
 * Document Loaders
 
