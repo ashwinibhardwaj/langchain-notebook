@@ -31,12 +31,31 @@ This repository explores (and will continue to explore):
 
   * String Output Parser
   * Pydantic Output Parser
+  * Json Output Parser
+  * Structured Output Parser
 * 🔹 Chains & LCEL (`|` operator)
 * 🔹 Runnable Interfaces
 
   * `RunnableLambda`
   * `RunnableBranch`
   * `RunnableParallel`
+  * `RunnablePassthrough`
+  * `RunnableSequence`
+ 
+* Document Loaders
+
+  * CSV_Loader
+  * PDF_Loader
+  * Web_Base_Loader
+* 🔹 Text Splitters
+
+  * Length Based
+  * Code Based(python code)
+  * Text Structure Based
+* Retrievers
+
+  * Faiss VectorDB Retriever
+  * Wikipedia Retriever
 * 🔹 Conditional Routing & Decision Making
 * 🔹 Structured Outputs with Pydantic
 * 🔹 Environment & Config Management
