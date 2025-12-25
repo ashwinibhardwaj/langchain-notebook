@@ -67,9 +67,9 @@ This repository explores (and will continue to explore):
 * **Python**
 * **LangChain**
 * **HuggingFace Inference API**
-* **Groq LLMs
+* **Groq LLMs**
 * **Pydantic**
-* **VectorStores
+* **VectorStores**
 
 
 ---
